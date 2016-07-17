@@ -1,0 +1,28 @@
+#intro{
+  margin:5.0em;
+}
+#club{
+  font-size: medium;
+}
+.footer
+{
+    text-align: left;
+    position: absolute;;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 100px;
+    background-color: #00CCFF;
+}
+
+#container{
+margin: 1.0em;
+  float: left;
+}
+#fb img{
+  float:right;
+  margin-top: 3.0em;
+  margin-right: 0.5em;
+  width: 50px
+
+}
